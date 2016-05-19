@@ -4,7 +4,8 @@
 //Name this program lab8.cpp.
 //Write code to perform a unit-test on a function.
 //Function name: bodyShapeIndex().
-//Author: Mario Hernandez
+//Modified Author: Mario Hernandez
+//Date 5/19/16
 //SBSI is can be a measure of health for some people.
 //
 //Range of data is from the following source...
